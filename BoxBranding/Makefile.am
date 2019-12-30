@@ -1,4 +1,4 @@
-SUBDIRS = lib remotes
+SUBDIRS = lib
 
 installdir = $(libdir)/enigma2/python/Components
 
